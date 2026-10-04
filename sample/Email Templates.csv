@@ -1,0 +1,24 @@
+Template ID,Subject,Body,Active
+30,"Your {{insurance_company}} Health Insurance Renewal - 30 Days Remaining","Dear {{customer_name}},
+
+Your {{insurance_company}} - {{policy_name}} health insurance policy is approaching its renewal date, with approximately {{days_remaining}} days remaining.
+
+Policy Details:
+
+Insurance Company: {{insurance_company}}
+Policy Name: {{policy_name}}
+Policy Number: {{policy_number}}
+Renewal Date: {{renewal_date}}
+Days Remaining: {{days_remaining}}
+Add-ons: {{addons}}
+
+Before renewing, I recommend reviewing your current coverage and benefits to make sure they still meet your requirements.
+
+If you would like, I can review your existing policy and help you understand whether there are any suitable coverage improvements, upgrades, or alternative options available in the market based on your requirements.
+
+Please feel free to contact me if you would like to discuss your renewal.
+
+Regards,
+{{advisor_name}}
+Health Insurance Advisor
+{{advisor_email}}",YES
